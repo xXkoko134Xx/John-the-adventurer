@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Item>
+  <ItemName>testItem</ItemName>
+  <testID>1</testID>
+  <ItemTypes>WEAPON</ItemTypes>
+  <ItemName>testItem2</ItemName>
+  <testID>2</testID>
+  <ItemTypes>WEAPON</ItemTypes>
+  <ItemName>testItem3</ItemName>
+  <testID>3</testID>
+  <ItemTypes>WEAPON</ItemTypes>
+</Item>
+ 
